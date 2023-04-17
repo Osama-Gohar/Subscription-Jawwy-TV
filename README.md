@@ -8,7 +8,7 @@ To run this script, you will need to have Java, Selenium, and TestNG installed o
 Usage
 To use this script, first clone the repository to your local machine:
 
-git clone https://github.com/yourusername/subscription-automation.git
+git clone https://github.com/yourusername/Subscription-Jawwy-TV.git
 Then, navigate to the project directory and run the following command to execute the test:
 
 mvn clean test
@@ -21,7 +21,7 @@ Verify that the correct subscription package type is displayed on the page.
 Verify that the correct price is displayed for the selected subscription package type.
 Verify that the correct currency symbol is displayed for the selected subscription package type.
 Test Data
-The test data for this script is stored in a JSON file located in the src/test/resources folder. This file contains the following information for each subscription package type:
+ This file contains the following information for each subscription package type:
 
 Package type name
 Package price
